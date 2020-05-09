@@ -1,7 +1,5 @@
-# React-Paintapp
-Realtime paint collaboration using Pusher and React
-
-[View tutorial](https://pusher.com/tutorials/live-paint-react)
+# NAPKIN Game
+Realtime paint collaboration using Pusher and React 
 
 ## Prerequisites
 - [React](https://reactjs.org/)
@@ -32,5 +30,4 @@ PUSHER_APP_SECRET=app-secret
 ## Built With
 
 * [React](https://reactjs.org/) 
-* [Angular](https://angular.io)
 * [Express](https://expressjs.com/)
