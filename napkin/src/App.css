@@ -1,0 +1,161 @@
+body {
+  font-family: 'Roboto Condensed', serif;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+.color-guide {
+  margin: 20px 40px;
+}
+
+h5 {
+  margin-bottom: 10px;
+}
+
+.block {
+  padding: 7px 15px;
+  border-radius: 4px;
+  width: 100px;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0;
+  border: 2px solid grey;
+}
+
+.pink {
+  background: #EE92C2;
+}
+
+.yellow {
+  background: #F0C987;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.purple {
+  background: #800080;
+}
+
+.orange {
+  background:orange;
+}
+
+.red {
+  background: red;
+}
+
+.black {
+  background: black;
+}
+
+.white {
+  background: white;
+  color:grey;
+}
+
+.prompt {
+  margin: 100px 50px;
+}
+
+.adjective {
+  background-color: tomato;
+  margin: 0 70px;
+}
+
+.noun {
+  color: #ff6347;
+  background-color: white;
+  margin: 10px 70px;
+}
+
+.timer-wrapper {
+  margin: 0px 50px;
+}
+
+.buttons {
+  padding-left: 375px;
+}
+
+.new-game {
+  border-radius: 4px;
+  width: 300px;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 10px;
+  border: 2px solid grey;
+  background-color: tomato;
+}
+
+.join-game {
+  border-radius: 4px;
+  width: 300px;
+  color: tomato;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 10px;
+  border: 2px solid grey;
+  background-color: white;
+}
+
+.home {
+  flex-direction: column;
+}
+
+.roomCode {
+  padding-left: 400px;
+}
+
+.roomCode input {
+  font-size: 100px;
+  text-align: center;
+  border: 5px solid tomato;
+}
+
+.roomCodeBlock {
+  padding: 7px 15px;
+  border-radius: 4px;
+  width: 500px;
+  color: white;
+  background-color: tomato;
+  margin: 10px 0;
+  border: 2px solid grey;
+}
+
+.usernameSubmit input {
+  font-size: 30px;
+  text-align: center;
+}
+
+.playerList {
+  background-color: gray;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px 20px;
+  border-radius: 4px;
+  border: 2px solid black;
+  width: 400px;
+  list-style-type: none;
+}
+
+.playerBox {
+  padding-top: 50px;
+}
